@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects project. 
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Lydia](https://github.com/stanleylydia/stanleylydia.github.io/blob/master/Lydia%20Merry%20Chirstmas.PNG?raw=true "Optional Title")
 
 
 ***
