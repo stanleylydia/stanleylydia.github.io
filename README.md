@@ -14,3 +14,9 @@ This is my Camera Effects project.
 
 
 ***
+
+Storyscape
+
+This is my Storyscape project. 
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/lydiastanley/f-copy-copy-copy-copy-copy-copy-copy" ></script>
